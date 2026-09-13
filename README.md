@@ -3,7 +3,6 @@
 
 - 🔭 Estou estudando front-end e back-end
 - 🌱 Algumas linguagens como Java, JavaScript, Typescript, Python, Next.js e Node.js
-- 🔎 Estou em busca de uma primeira oportunidade na área
 - 📫 Contate-me pelo email: guilherme.burgheri@hotmail.com
 
 
